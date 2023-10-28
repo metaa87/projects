@@ -32,5 +32,5 @@ if st.button('Score'):
 
 # The End
 if st.button('Bye!'):
-    with st.spinner('I\'d love to hear your thoughts on my first project. Please feel free to give feedback! https://t.me/bahare_cs'):
+    with st.spinner('I\'d love to hear your thoughts on my first project. Please feel free to give feedback!'):
         time.sleep(7)
